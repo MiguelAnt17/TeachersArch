@@ -4,15 +4,15 @@
 
 **Estímulo**
 
-- o utilizador acede ao site e insere o link e o token e seleciona o Model Stage do repositório que quer fazer a previsão.
+- o utilizador acede ao sistema, insere o link do repositório GitLab e o token, seleciona o Model Stage desejado e solicita a previsão do desempenho com base no repositório escolhido.
 
 **Artefato**
 
-- o sistema com a interface com as várias funcionalidades e o modelo ML.
+- o sistema com a interface de submissão de link e do token, modelo de previsão e pipeline de extração.
 
 **Ambiente**
 
-- acesso de vários utilizadores em simultâneo, com várias inserções d elinks e tokens.
+- o sistema está operacional com vários utilizadores simultâneos, cada um a realizar inserções de links e tokens para diferentes repositórios GitLab.
 
 **Resposta**
 
@@ -20,4 +20,4 @@
 
 **Medida da Resposta**
 
-- O sistema demora até 15 minutos a extrair os dados.
+- O sistema demora até 15 minutos a extrair os dados. Este tempo inclui a autenticação com a API do GitLab, extração e processamento dos dados, e formatação da resposta.

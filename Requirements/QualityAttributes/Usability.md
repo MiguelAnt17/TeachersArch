@@ -4,11 +4,11 @@
 
 **Estímulo**
 
-- O sistema deve ser obejtivo e claro, de modo a que o utilizador não precise de ter muito conhecimento prévio, e possa aceder ao site e saber como usar as funcionalidades, visualizar e interpretar as previsões.
+- O sistema deve ser objetivo e claro, de modo a que o utilizador não precise de ter muito conhecimento prévio, e possa aceder ao site e saber como usar as funcionalidades, visualizar e interpretar as previsões.
 
 **Artefato**
 
-- a interface do site/site.
+- a interface do sistema.
 
 **Ambiente**
 
@@ -16,14 +16,9 @@
 
 **Resposta**
 
-- o sistema tem uma interface intuitiva que garante que aos utilizadores facilidade no uso das suas funcionalidades.
+- o sistema tem uma interface intuitiva que garante aos utilizadores facilidade no uso das suas funcionalidades.
 
 **Medida da Resposta**
 
-A usabilidade do sistema avalia-se com:
+- O sistema é de uso acessível e claro, pelo que fazer o pedido de previsões, visualização de gráficos, interpretar informações demoram menos de 1 segundo a serem carregadas. Além disso o sistema possui várias mensagens infromativas sobre erros que o utilizador pode cometer ao usar as funcionalidades da interface.
 
-    - Aprender as funcionalidades do sistema: a interface deve fornecer tutoriais ou documentação de modo a ajudar os utilizadores a compreenderem como utilizar as funcionalidades do site. Deve existir uma opção para demonstrar ao utilizador como usar as funcionalidade sem ter impacto em dados reais.
-
-    - Eficiência no uso do sistema: as ações mais comuns, como o pedido de previsões, a visualização de gráficos ou interpretar informações, pelo que as visualizações devem ser carregadas rapidamente, apresentando informações claras e objetivas, fáceis de entender.
-
-    - Minimizar o impacto de erros: o sistema deve avisar o utilizador sobre erros que possam ocorrer, como o formato dos dados incorretos, algumas ações não aceites, com mensagens de modo a orientar o utilizador de como deve proceder para resolver os problemas. Caso o utilizador coloco um repositório muito pesado de carregar, uma vez que vai demorar mais tempo que o comum, o sistema deve ter opção de cancelar a operação.
